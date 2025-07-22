@@ -1,4 +1,6 @@
 # 🧠 AI Resume Analyzer with NLP (No Paid APIs)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-blue?logo=streamlit)](https://ai-resume-analyzer-bxcchzhgfyee2h8kkyrpd6.streamlit.app/)
+
 
 A smart AI-powered Resume Analyzer built using Python, spaCy NLP, and PDF parsing — no OpenAI or paid APIs!  
 This tool extracts skills from a user's resume and compares them with a job description to calculate skill match %, suggest missing skills, and provide improvement suggestions.
